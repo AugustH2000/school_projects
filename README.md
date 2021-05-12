@@ -2,6 +2,7 @@
 These are large(ish) school projects that are at least somewhat related to data science or statistics.
 
 Index:
+
 Breast Cancer Dataset Project v2.docx - Multivariate Statistics
 
 Glacier_Dashboard.html                - ArcGis
